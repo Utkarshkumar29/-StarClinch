@@ -39,7 +39,7 @@ const HeroSection=()=>{
                 alt="Person"
                 width={800}
                 height={800}
-                className="rounded-full aspect-square object-cover object-center"
+                className="rounded-full aspect-square object-cover object-center cursor-pointer "
               />
             </div>
             <p className=" text-center text-[#404047] text-[32px] ">
