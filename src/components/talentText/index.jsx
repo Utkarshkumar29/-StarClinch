@@ -9,3 +9,4 @@ const TalentText = ({ text, left, top, rotation }) => {
     );
   };
   
+  export default TalentText;
